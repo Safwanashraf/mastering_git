@@ -17,3 +17,5 @@
 - git reset
 - git stash
 - git config
+
+// Git is a version control system that helps you track changes in your code.
