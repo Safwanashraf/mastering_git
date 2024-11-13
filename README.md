@@ -22,7 +22,5 @@
 
 * How to manage branch
 * How to manage remote repository
-* How to manage commit
-* How to manage merge
 * How to manage stash
 * How to manage conflict
