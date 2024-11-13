@@ -19,3 +19,10 @@
 - git config
 
 // Git is a version control system that helps you track changes in your code.
+
+* How to manage branch
+* How to manage remote repository
+* How to manage commit
+* How to manage merge
+* How to manage stash
+* How to manage conflict
