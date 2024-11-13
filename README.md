@@ -24,3 +24,6 @@
 * How to manage remote repository
 * How to manage stash
 * How to manage conflict
+
+## Having really fun with the github cli and git 
+`It's like playing a game so intersting`
