@@ -29,4 +29,4 @@
 `It's like playing a game so intersting`
 
 --- 
-Hm This is not what I thought of GitHub, This is really awesome.
+.
